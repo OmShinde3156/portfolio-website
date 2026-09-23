@@ -1,0 +1,21 @@
+# Om Shinde — Software & AI Engineer
+> Portfolio & Technical Profile for LLMs and AI Agents
+
+- Name: Om Shinde
+- Primary Focus: Software Engineering, Python Backend Development, REST APIs, Hybrid RAG Pipelines, Psychometric AI (BKT/CAT).
+- Education:
+  - B.Tech in Computer Science & Engineering (2022–2026), Sandip University, Nashik
+  - Schooling: Shri L.G. Haria School, Haria Park, Vapi, Gujarat (2008–2022)
+- Internships:
+  1. SmartBridge — Google Cloud Generative AI Intern (Vertex AI, Enterprise RAG, Cloud Run)
+  2. Coincent — Machine Learning & Computer Vision Intern (Python, OpenCV, Inference Optimization)
+  3. hubergroup — IT & Systems Engineering Intern (Enterprise Systems, Relational DBs, Network Ops)
+  4. Edunet Foundation — AI & Cloud Intern (Supervised Learning, Cloud Deployment)
+- Honors & Achievements:
+  - Google Cloud Arcade Legend (Cohort 2, 2025 · Highest Milestone Tier)
+  - NASA International Space Apps Challenge — Galactic Problem Solver
+  - Oracle Cloud Infrastructure (OCI) Certified
+- Flagship Project:
+  - Shiro.ai: Adaptive Cognitive Learning Platform integrating Bayesian Knowledge Tracing (BKT), Computerized Adaptive Testing (CAT), and a two-stage Hybrid RAG retrieval engine (ChromaDB + BM25) with automated RAG Triad evaluation.
+- GitHub: https://github.com/omshinde3156/
+- Email: omshinde3156@gmail.com
